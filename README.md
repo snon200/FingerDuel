@@ -5,7 +5,6 @@ Local two-player Unity game for a shared phone or tablet. Players sit on opposit
 ## Links
 
 - [Snon Apps on Google Play](https://play.google.com/store/apps/dev?id=8134158059265445905) (Finger Duel is published under this developer account)
-- [itch.io](https://snon200.itch.io/)
 
 ## Gameplay
 
